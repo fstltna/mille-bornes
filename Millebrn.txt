@@ -1,0 +1,253 @@
+
+                            MILLE BORNES Version 4.5
+                  Copyright (C) 1990 TEGL Systems Corporation
+                              All Rights Reserved
+
+     This product is protected under Canadian copyright law and
+     international treaty provisions, it may not be sold, modified for
+     redistribution or re-packaged individually without the specific
+     written permission of TEGL Systems Corporation.
+
+     This is a shareware product. You may make copies and distribute Big2
+     among your friends, provided there is no fee charged for such
+     copying and distribution and that it is distributed ONLY in its
+     original, unmodified form.
+
+
+     -------------------------------------------------------------------
+     SYSTEM REQUIREMENTS
+     -------------------------------------------------------------------
+     IBM PC or compatible, 512K memory, disk drive and an EGA or VGA
+     display adaptor and monitor.
+
+     -------------------------------------------------------------------
+     Notes on this guide.
+     -------------------------------------------------------------------
+
+     Some actions require a mouse or at least the mouse pointer. If you
+     don't have a mouse the cursor keys will move the mouse pointer
+     around the screen, simply press enter to simulate a mouse click.
+
+     -------------------------------------------------------------------
+     Mille Bornes
+     -------------------------------------------------------------------
+
+     MilleBornes is a French card game, sold by Parker Brothers, that
+     simulates a car race of 700 kilometers.  This game, as it
+     originates from France, is based on the small cement markers at
+     regular intevals among the roads in Europe.  The French call these
+     markers bornes kilometriques or as we know them as milestones.
+     These milestones usually shows the distance to the next town.
+     Hence these markers gives this game its name:  MILLE BORNES
+     pronounced as "MEEL BORN", meaning a thousand milestones.
+
+     The card game is usually for 2 or more players.  Since your
+     opponent is, of course, the computer, thereby restraining the game
+     to two players; the number of milestones that you must complete is
+     700 kilometers, rather then the 1000 kilometers used with 4 or more
+     players.
+
+     -------------------------------------------------------------------
+     The Game
+     -------------------------------------------------------------------
+
+     The object of the game is to be the first player to accumulate a
+     total of 5000 points over several games.
+
+     The object of each game is to play an exact total of 700 kilometers
+     in distance cards before your opponent does.
+
+     Each game is scored according to a set of rules, and accumulated,
+     until a player scores a total of 5000 points or greater.  If both
+     players scores above 5000 points, the higher score wins.
+
+     At the beginning of each game each player is dealt six cards from
+     the deck.  Each player alternately takes a card from the draw pile
+     and either plays or discard a card.
+
+     The play continues until one of the players reaches 700 km, or
+     until the deck is exhausted (even if neither players completed the
+     700 km trip).
+
+     -------------------------------------------------------------------
+     Distance Cards
+     -------------------------------------------------------------------
+
+     As one of the objectives of this game, distance cards are
+     accumulated until one of the players reaches a exact distance of
+     700 kilo-metriques.
+
+     To assist you in balancing the exact distance, there are five
+     different distance values that may be played (provided that you
+     have played a ROLL!  and have not been stopped by hazard cards by
+     your computer opponent).  To assure fairness, a player cannot play
+     more than two (2) 200 Distance cards within a game.
+
+     [25] [50] [75] [100] [200]
+
+     -------------------------------------------------------------------
+     Hazard Cards
+     -------------------------------------------------------------------
+
+     To prevent you from playing distance cards, your opponent may play
+     a hazard card whenever a ROLL!  card is displayed on your playing
+     area.  You must play the appropriate REMEDY card, and another ROLL!
+     card before you can continue playing distance cards.
+
+     [OUT OF GAS]
+     [FLAT TIRE]
+     [ACCIDENT]
+     [STOP]
+     [Speedlimit]
+
+     The SPEEDLIMIT is the only hazard that can be played without your
+     opponent displaying a ROLL!.  However this hazard only limits the
+     types of distance cards that can be played.
+
+     -------------------------------------------------------------------
+     Remedy Cards
+     -------------------------------------------------------------------
+
+     A matching remedy card is required after a hazard card.
+
+     [OUT OF GAS]  --> [Gasoline]
+     [FLAT TIRE]   --> [Spare Tire]
+     [ACCIDENT]    --> [Repairs]
+     [STOP]        --> [Roll!]
+     [Speedlimit]  --> [End Of Limit]
+
+     -------------------------------------------------------------------
+     Safety Cards
+     -------------------------------------------------------------------
+     Safety Cards are used for preventing an opponent from playing
+     certain Hazard cards against you, and when displayed on the playing
+     area (ie.  not in your hands), you are entitle to extra points
+     during the scoring process.  No points are awarded for Safety cards
+     that remains in the playing hand when a game is completed.
+
+     A safety card acts as the following REMEDIES.
+
+     [OUT OF GAS]    --> [Gasoline]          --> [ExtraTank]
+     [FLAT TIRE]     --> [Spare Tire]        --> [Puncture Proof]
+     [ACCIDENT]      --> [Repairs]           --> [Driving Ace]
+     [STOP]          --> [Roll!]             --> [Right Of Way]
+     [Speedlimit]    --> [End Of Limit]      --> [Right Of Way]
+
+     -------------------------------------------------------------------
+     MORE on Safety Cards
+     -------------------------------------------------------------------
+
+     A Hazard can be a bonus for you if you hold the corresponding
+     Safety in your hand and you play the card with a "Coup Fourre",
+     french fencing term for "counter-thrust" when the hazard is played
+     against you.  Not only do you become unaffected by the Hazard (for
+     the remainder of the game), but you also get 300 bonus points for
+     the play, PLUS get an extra turn.
+
+     However if you had just drawn the safety card from the deck, and
+     played it against the offending hazzard, it would not be considered
+     "Coup Fourred" since you had to wait to draw it.  Safeties that are
+     played in this manner do not remove the hazzard from the playing
+     area, but do provide the necessary remedy and protection for the
+     remainder of the game.
+
+     Safety cards may be played any time - holding on to them for
+     potential Coup Fourres is advantageous, but when your opponent is
+     close to reaching 700 you should play it.  A Safety will always
+     give you an extra turn.
+
+     -------------------------------------------------------------------
+     Discarding Cards
+     -------------------------------------------------------------------
+
+     There will be a time when you will be unable to play a card.  This
+     is when your skills in selecting the right card to discard may
+     affect the game.
+
+     The best cards to discards are those that cannot be used, for
+     example a Distance card of 200 when you have reached 525 km; a
+     Remedy for a Safety you have; Roll cards and End of Limit when you
+     have Right of Way, Hazards that your opponent has played a Safety
+     for, and lastly duplicate cards.
+
+     You should try to remember which cards have been played.  A
+     GASOLINE card has no value when all the OUT OF GAS cards have been
+     played.
+
+     -------------------------------------------------------------------
+     Scoring
+     -------------------------------------------------------------------
+
+     The game is won by the player that accumulates a point score of
+     5000 or more.  Points are awarded as follows.
+
+     +-----------------+-----------------------------------------------+
+     | MILESTONES      |  SCORED ON PTS-FOR-MILEAGE BASIS.             |
+     +-----------------+-----------------------------------------------+
+     | SAFETIES        |  100 PTS EACH. 300 PT BONUS FOR ALL 4.        |
+     +-----------------+-----------------------------------------------+
+     | COUP-FOURRES    |  SCORES 300 PTS EACH.                         |
+     +-----------------+-----------------------------------------------+
+     | TRIP COMPLETED  |  400 PT BONUS FOR COMPLETING A TRIP OF 700 KM |
+     +-----------------+-----------------------------------------------+
+     | DELAYED ACTION  |  300 PT BONUS IF TRIP COMPLETED AFTER         |
+     |                 |  DRAWCARDS HAVE BEEN EXHAUSTED.               |
+     +-----------------+-----------------------------------------------+
+     | SAFE TRIP       |  300 PT BONUS FOR COMPLETING TRIP WITHOUT 200 |
+     |                 |  KM CARDS.                                    |
+     +-----------------+-----------------------------------------------+
+     | SHUT OUT        |  500 PT BONUS FOR COMPLETING TRIP BEFORE      |
+     |                 |  OPPONENT HAS PLAYED ANY MILAGE CARDS.        |
+     +-----------------+-----------------------------------------------+
+
+
+     -------------------------------------------------------------------
+     Playing Your Cards
+     -------------------------------------------------------------------
+     During your turn, your play choices are:
+            * depending on the cards in your hand *
+
+     PLAYING A HAZARD
+     Your opponent must be showing a roll!  card and is currently not
+     displaying the corresponding safety card.  Yhe only exception is a
+     speedlimit, which may be played on your opponent at any time.
+
+     PLAYING A REMEDY CARD
+     If your computer opponent has played a hazard card against you.
+
+     PLAYING A SAFETY CARD
+     Safety cards can be played any time.  If your computer opponent has
+     played a hazard card against you you can immediately play your
+     corresponding safety card for a coup-fourres.  Remember to play
+     your safety cards before the game ends.  Points are awarded only
+     when the card is played.
+
+     PLAYING A DISTANCE CARD
+     You must be displaying a roll!  as well as the distance value must
+     follow any speedlimit restrictions that may have been played
+     against you.  Only (2) 200 milage cards are allowed per game.
+
+     DISCARDING A CARD
+     Any card can be discarded, even a safety.  Once you have discarded,
+     the play is final.
+
+     -------------------------------------------------------------------
+     Playing the Computer Version
+     -------------------------------------------------------------------
+     At the beginning of each turn a card is automatically drawn for
+     you, giving you seven cards (six plus one draw card).  The bottom
+     card on the display, is the newest card drawn from the deck.
+
+     Use the mouse to point to the card that you wish to play.
+
+     The left mouse button plays the selected card.  If the card is
+     valid for playing, the computer will take the card and place it on
+     the appropriate playing area.  (eg.  a hazard will be placed on the
+     computer battlecard pile, a safety card will be put on the safties
+     card pile etc.
+
+     If you are unable to play a card, you must select a card to
+     discard.  To discard a card, position the mouse to the card you
+     wish to discard and press the right mouse button.
+
+

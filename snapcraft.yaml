@@ -12,7 +12,7 @@ title: Mille Bornes (DOS)
 
 apps:
   mille-bornes:
-    command: dosbox MILLEBRN.EXE
+    command: dosbox -exit MILLEBRN.EXE
 parts:
   mille-bornes:
     # See 'snapcraft plugins'
